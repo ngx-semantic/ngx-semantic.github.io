@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngx_semantic_docs=self.webpackChunkngx_semantic_docs||[]).push([[528],{9528:(u,n,s)=>{function e(c){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}s.r(n),s.d(n,{default:()=>e})}}]);
