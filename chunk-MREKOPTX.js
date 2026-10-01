@@ -1,4 +1,4 @@
-import{d as S,j as h,l as b}from"./chunk-NBCTIWWJ.js";import{Ca as c,Da as u,M as d,Va as m,Wa as t,Xa as i,Ya as r,ac as v,fc as g,jc as x,lc as f,qa as l,rb as e,wa as p}from"./chunk-LQ7F2QM7.js";import"./chunk-HHHS5ZAZ.js";var C=(()=>{class n{constructor(a){this.snippetCssLink='  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />',this.snippetNpmInstaller=`  npm install @angular/cdk
+import{d as S,j as h,l as b}from"./chunk-V5BQNQ4C.js";import{Da as c,Ea as u,M as d,Wa as m,Xa as t,Ya as i,Za as r,bc as v,hc as g,lc as x,nc as f,ra as l,sb as e,xa as p}from"./chunk-2A3CABIM.js";import"./chunk-OSQMNGTH.js";var C=(()=>{class n{constructor(a){this.snippetCssLink='  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />',this.snippetNpmInstaller=`  npm install @angular/cdk
   npm install ngx-semantic`,this.snippetYarnInstaller=`  yarn add @angular/cdk
   yarn add ngx-semantic`,this.snippetAllImport=`  import { NgxSemanticModule } from 'ngx-semantic';
   ...
